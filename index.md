@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+JS: Welcome to my blog
 ---
 
